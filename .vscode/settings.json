@@ -1,0 +1,6 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "ON_OFF_LED_MQTT.C": "cpp"
+  }
+}
